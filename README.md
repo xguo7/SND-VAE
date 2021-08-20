@@ -1,1 +1,1 @@
-# SGD-VAE
+# SND-VAE
